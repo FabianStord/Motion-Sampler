@@ -1,5 +1,3 @@
-I've included an ableton project with the sampler already loaded in
-	To open this project open the file called Motionbreak.als
 The files hg_fftPlayback, hg_fftRecord and SpectralFreeze might not be needed but they are included just in case.
 
 Within the app use the "game"-sensor rate and connect using port 30000
